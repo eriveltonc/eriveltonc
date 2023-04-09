@@ -16,14 +16,16 @@ Architect, Urban Planner and Data Scientist in Training
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/eriveltonc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/eriveltonc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/erivelton-ferreira-27664b127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/eriveltonc"><img src="https://github-readme-stats.vercel.app/api?username=eriveltonc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="eriveltonc's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/eriveltonc/cryptoanalise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eriveltonc&repo=cryptoanalise&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eriveltonc/spacialAutoCorrelation_ES" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eriveltonc&repo=spacialAutoCorrelation_ES&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+ ### Socials
+
+<p align="left"> <a href="https://www.github.com/eriveltonc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/eriveltonc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/erivelton-ferreira-27664b127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/eriveltonc"><img src="https://github-readme-stats.vercel.app/api?username=eriveltonc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="eriveltonc's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/eriveltonc/cryptoanalise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eriveltonc&repo=cryptoanalise&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eriveltonc/spacialAutoCorrelation_ES" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eriveltonc&repo=spacialAutoCorrelation_ES&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
